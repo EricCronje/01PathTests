@@ -7,7 +7,7 @@ namespace ConApp_Path
     {
         static void Main(string[] args)
         {
-
+			// abstract
             Console.WriteLine("Q: using the path as example c:\\Stagelist.txt - provide the following:");
             Console.WriteLine();
             Console.WriteLine("Specify path then");
@@ -28,7 +28,8 @@ namespace ConApp_Path
 
             Console.WriteLine("A:");
 
-
+			//Beta
+			
             Console.ReadKey();
 
         }
