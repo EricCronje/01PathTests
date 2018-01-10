@@ -1,0 +1,6 @@
+C:\Lab\01PathTests\ConApp_Path\ConApp_Path\bin\Debug\ConApp_Path.exe.config
+C:\Lab\01PathTests\ConApp_Path\ConApp_Path\bin\Debug\ConApp_Path.exe
+C:\Lab\01PathTests\ConApp_Path\ConApp_Path\bin\Debug\ConApp_Path.pdb
+C:\Lab\01PathTests\ConApp_Path\ConApp_Path\obj\Debug\ConApp_Path.csprojResolveAssemblyReference.cache
+C:\Lab\01PathTests\ConApp_Path\ConApp_Path\obj\Debug\ConApp_Path.exe
+C:\Lab\01PathTests\ConApp_Path\ConApp_Path\obj\Debug\ConApp_Path.pdb

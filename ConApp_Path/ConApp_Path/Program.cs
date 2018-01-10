@@ -28,7 +28,7 @@ namespace ConApp_Path
 
             Console.WriteLine("A:");
 
-			//Beta sadasdasd
+			//Add answer here
 			
             Console.ReadKey();
 
