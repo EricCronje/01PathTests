@@ -28,7 +28,7 @@ namespace ConApp_Path
 
             Console.WriteLine("A:");
 
-			//Beta
+			//Beta sadasdasd
 			
             Console.ReadKey();
 
