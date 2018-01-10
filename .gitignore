@@ -1,0 +1,13 @@
+# C# gitignore file
+# Author Stefan Olivier
+# Last modified by: <Insert Name>
+# Vs. 1.01
+# Last Modified date: 03/01/18
+# Folders to ignore
+bin/
+obj/
+debug/
+release/
+
+#File types to ignore
+*.suo
